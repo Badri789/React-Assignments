@@ -1,0 +1,13 @@
+.item-add-form {
+    width: 50%;
+    margin: 0 auto;
+}
+
+.item-add-form select {
+    width: 35%;
+}
+
+.item-add-form button {
+    width: 30%;
+    margin-left: 10px;
+}
