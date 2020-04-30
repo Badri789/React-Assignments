@@ -1,0 +1,14 @@
+.status {
+    width: 90%;
+    margin: 0 auto;
+    justify-content: space-between;
+    display: flex;
+}
+
+li:hover {
+    color: #33ad8f;
+}
+
+.days span {
+    margin-right: 1rem;
+}
