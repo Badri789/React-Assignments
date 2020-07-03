@@ -1,0 +1,17 @@
+.create-form {
+    width: 30%;
+    margin: 0 auto;
+    margin-top: 3%;
+}
+
+.checkboxes  {
+    display: flex;
+    flex-wrap: wrap;
+    padding-left: 20%;
+    margin-bottom: 5%;
+}
+
+.checkboxes > label {
+    width: 50%;
+}
+

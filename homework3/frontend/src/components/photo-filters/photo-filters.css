@@ -1,0 +1,13 @@
+.filters-div {
+    display: flex;
+    margin-bottom: 1%;
+    justify-content: space-between;
+}
+
+.filters-div > select {
+    width: 30%;
+}
+
+.search-div {
+    margin-bottom: 1%;
+}
