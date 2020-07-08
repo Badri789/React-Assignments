@@ -1,0 +1,32 @@
+.statusDiv {
+    display: flex;
+    justify-content: space-around;
+}
+
+.countryList {
+    list-style-type: none;
+    margin-left: 1%;
+}
+
+.countryList li {
+    margin-bottom: 4%;
+    border-bottom: 1px solid #ddd;
+}
+
+.statusTitle {
+    margin: 1% 0;
+    text-align: center;
+}
+
+.hint {
+    text-align: center;
+    margin-bottom: 2%;
+}
+
+.statusList {
+    list-style-type: none;
+}
+
+.statusList li span {
+    margin-right: 10px;
+}

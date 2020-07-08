@@ -1,0 +1,47 @@
+.tableContainer {
+    width: 100%;
+}
+
+.countryTable {
+    width: 100%;
+    border: 1px solid #ddd;
+    border-collapse: collapse;
+}
+
+.countryTable th {
+    border: 1px solid #ddd;
+    padding: 10px;
+}
+
+.countryTable td {
+    border: 1px solid #ddd;
+    padding: 10px;
+}
+
+.centeredData {
+    text-align: center;
+}
+
+.searchbar {
+    display: block;
+    margin: 0 auto;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    background-color: #f3f3f3;
+    box-sizing: border-box;
+    transition: box-shadow 0.2s;
+    border: solid 1px grey;
+    padding: 0 10px;
+    height: 40px;
+    width: 30%;
+}
+
+.searchbar:focus {
+    -webkit-box-shadow: 0px 0px 15px -1px rgba(0,192,250,0.45);
+    -moz-box-shadow: 0px 0px 15px -1px rgba(0,192,250,0.45);
+    box-shadow: 0px 0px 15px -1px rgba(0,192,250,0.45);
+    border: none;
+    outline: none;
+}
+
+
