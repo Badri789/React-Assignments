@@ -1,0 +1,32 @@
+.navigation {
+    width: 100%;
+    background-color: #ffffff;
+    margin: 0 auto;
+    padding-bottom: 5px;
+    min-height: 50px;
+}
+
+.navigation ul {
+    width: 70%;
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+    align-content: center;
+    margin-left: 1.5%;
+}
+
+.navigation ul li {
+    margin-top: 15px;
+}
+
+.navigation ul li a {
+    text-decoration: none;
+    padding: 10px 10px 7px 10px;
+    font-weight: 600;
+    font-size: 17px;
+    color: #42424b;
+}
+
+.navigation ul li a:hover {
+    border-bottom: 3px solid #348fe2;
+}
